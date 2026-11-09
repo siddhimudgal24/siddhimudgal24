@@ -2,10 +2,9 @@
 <div align="center">
 
 <p align="center">
-  <img src="./Professional Office Headshot.png" 
-       alt="Profile Photo" 
-       width="200" 
-       style="border-radius: 50%;" />
+  <img src="https://github.com/siddhimudgal24.png"
+       width="200"
+       alt="Siddhi's Profile Photo" />
 </p>
 
 <h2>Hey, I'm Siddhi Mudgal! 👋</h2>
