@@ -145,22 +145,37 @@ An AI-powered career development platform designed to help students prepare for 
 
 <div align="center">
 
+<h2 align="center">2. TrustLens — Disaster Response GIS Platform</h2>
 
-### 2. TrustLens — Disaster Response GIS Platform
+<p align="center">
+  A GIS-based disaster response platform designed to support emergency
+  planning, shelter accessibility, and real-time disaster visualization.
+</p>
 
-A GIS-based disaster response platform designed to support emergency planning, shelter accessibility, and real-time disaster visualization.
+<h3 align="left">✨ Key Features</h3>
 
-**Features**
-- Interactive disaster maps.
-- Flood zones and affected population areas.
-- Shelter locations and capacity information.
-- Shelter readiness scoring.
-- Road accessibility visualization.
+<ul>
+  <li>Interactive disaster maps and visualization.</li>
+  <li>Flood zones and affected population areas.</li>
+  <li>Shelter locations with capacity information.</li>
+  <li>Shelter readiness scoring.</li>
+  <li>Road accessibility and blocked road visualization.</li>
+</ul>
 
-**Tech Stack:** React, TypeScript, Leaflet, GIS.
+<p align="left">
+  <strong>Tech Stack:</strong> React, TypeScript, Leaflet, GIS
+</p>
 
-- 🌐 [Live Demo](https://trustlens-system.vercel.app/register)
-- 💻 [GitHub Repository](https://github.com/siddhimudgal24/TRUSTLENS)
+<p align="center">
+  <a href="https://trustlens-system.vercel.app/register">
+    <img src="https://img.shields.io/badge/Live%20Demo-Visit%20Project-A855F7?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo"/>
+  </a>
+  &nbsp;
+  <a href="https://github.com/siddhimudgal24/TRUSTLENS">
+    <img src="https://img.shields.io/badge/GitHub-View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repository"/>
+  </a>
+</p>
+
 
 
 <div align="center">
