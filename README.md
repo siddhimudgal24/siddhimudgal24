@@ -1,8 +1,6 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B0014,35:3B0764,70:7E22CE,100:C084FC&height=220&section=header&text=SIDDHI%20MUDGAL&fontSize=58&fontColor=FFFFFF&fontAlignY=40&animation=fadeIn&desc=SOFTWARE%20DEVELOPER%20%7C%20AI%20%26%20DATA%20SCIENCE&descSize=17&descAlignY=63" width="100%"/>
-
 <img src=".\img.png" width="100%" height = auto  alt="Siddhi Mudgal"/>
 
 <h2>Hey, I'm Siddhi Mudgal! 👋</h2>
