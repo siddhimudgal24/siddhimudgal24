@@ -1,7 +1,12 @@
 
 <div align="center">
 
-<img src=".\Neon Night Coding_ Code & Create.png" width="700" height = "394"  alt="Siddhi Mudgal"/>
+<p align="center">
+  <img src="./Professional Office Headshot.png" 
+       alt="Profile Photo" 
+       width="200" 
+       style="border-radius: 50%;" />
+</p>
 
 <h2>Hey, I'm Siddhi Mudgal! 👋</h2>
 
