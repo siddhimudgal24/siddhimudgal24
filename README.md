@@ -1,29 +1,38 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:10002B,40:5A189A,100:C77DFF&height=220&section=header&text=Siddhi%20Mudgal&fontSize=58&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40&desc=SOFTWARE%20DEVELOPER%20%7C%20AI%20%26%20DATA%20SCIENCE&descSize=17&descAlignY=62" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:10002B,50:5A189A,100:C77DFF&height=200&section=header&text=Siddhi%20Mudgal&fontSize=55&fontColor=FFFFFF&fontAlignY=40&desc=Software%20Developer%20%7C%20AI%20%26%20Data%20Science&descAlignY=62&descSize=17" width="100%"/>
 
-<img src="https://github.com/siddhimudgal24.png" width="125" height="125" style="border-radius:50%;" alt="Siddhi Mudgal"/>
-
-# Hey, I'm Siddhi Mudgal! 👋
-
-### Building ideas into impactful software and intelligent solutions.
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1200&color=C084FC&center=true&vCenter=true&width=650&lines=Software+Development+Enthusiast;Currently+Working+on+ASEP;Exploring+AI+%26+Machine+Learning;Quantitative+Research+%40+WorldQuant;Learning+%7C+Building+%7C+Growing" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&pause=1000&color=C084FC&center=true&vCenter=true&width=650&lines=Hey%2C+I'm+Siddhi+Mudgal+%F0%9F%91%8B;Currently+Working+on+ASEP+%F0%9F%9A%80;Software+Development+Enthusiast;Exploring+AI+%26+Machine+Learning;Quantitative+Research+at+WorldQuant" />
 
 <br/>
 
 <a href="https://github.com/siddhimudgal24">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
 </a>
 <a href="YOUR_LINKEDIN_URL">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
 </a>
 <a href="YOUR_LEETCODE_URL">
-<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode"/>
 </a>
 
 </div>
+
+---
+
+## 👩‍💻 About Me
+
+<img align="right" width="280" src="https://github.com/siddhimudgal24.png" />
+
+Hey! I'm **Siddhi Mudgal**, an Artificial Intelligence and Data Science undergraduate passionate about software engineering, problem-solving, and building intelligent applications.
+
+- 🎓 B.Tech in AI & Data Science
+- 💻 Practicing DSA using C++
+- 🌐 Exploring Full Stack Development
+- 🤖 Interested in AI, ML and Generative AI
+- 🚀 Currently working on ASEP
+- 📊 Exploring Quantitative Research at WorldQuant
 
 ---
 
@@ -33,7 +42,7 @@
 
 ### ASEP
 
-**Currently working on ASEP — exploring, developing, and contributing to the project.**
+Currently working on **ASEP**, exploring, developing and contributing to the project.
 
 <img src="https://img.shields.io/badge/STATUS-IN%20PROGRESS-9333EA?style=for-the-badge"/>
 
@@ -41,154 +50,124 @@
 
 ---
 
-## 👩‍💻 About Me
+## 💼 Experience
 
-I'm **Siddhi Mudgal**, a B.Tech undergraduate in Artificial Intelligence and Data Science, passionate about software engineering, problem-solving, and building technology that solves real-world problems.
+### WorldQuant | Brain Research Consultant
 
-I enjoy working across software development and artificial intelligence, exploring new technologies, and continuously improving my technical and analytical skills.
+**Quantitative Research & Alpha Research**
 
-- 🎓 B.Tech in Artificial Intelligence & Data Science
-- 💻 Practicing Data Structures & Algorithms using C++
-- 🌐 Building full-stack web applications
-- 🤖 Exploring Artificial Intelligence, Machine Learning & Generative AI
-- 📊 Interested in quantitative research and data-driven problem-solving
-- 🚀 Currently working on ASEP
-- 🌱 Always learning, experimenting and building
+- Exploring quantitative research through alpha development.
+- Working with mathematical and statistical concepts.
+- Analyzing financial signals and alpha performance.
+- Evaluating Sharpe, Fitness, Turnover and Returns.
+- Experimenting with alpha combinations and optimization.
 
----
+**Focus:** Quantitative Research · Financial Data Analysis · Statistical Analysis
 
-## 💼 Experience & Research
-
-### WorldQuant — Brain Research Consultant
-
-**Quantitative Research | Financial Data Analysis**
-
-- Registered as a WorldQuant Brain Research Consultant.
-- Exploring quantitative research through alpha development and experimentation.
-- Working with mathematical and statistical concepts to investigate financial signals.
-- Evaluating alpha performance using metrics such as Sharpe, Fitness, Turnover and Returns.
-- Exploring alpha combinations, performance analysis and optimization.
-
-**Focus Areas:** Quantitative Research · Alpha Research · Statistical Analysis · Financial Modeling
-
-[Explore WorldQuant Brain](https://platform.worldquantbrain.com/)
+[WorldQuant Brain](https://platform.worldquantbrain.com/)
 
 ---
 
-## 🛠️ Technical Skills
+## 🛠️ Tech Stack
 
-### Programming Languages
+### Languages
 
 <p>
 <img src="https://skillicons.dev/icons?i=cpp,js,python,java"/>
 </p>
 
-### Frontend Development
+### Frontend
 
 <p>
 <img src="https://skillicons.dev/icons?i=html,css,react,tailwind,bootstrap,vite"/>
 </p>
 
-### Backend & Databases
+### Backend & Database
 
 <p>
 <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql"/>
 </p>
 
-### AI & Developer Tools
+### Tools & Technologies
 
 <p>
 <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,vercel"/>
 </p>
 
-**Additional Technologies:** TypeScript, REST APIs, JWT Authentication, Mongoose, Google Gemini API and Prompt Engineering.
+**Additional:** REST APIs, JWT, Mongoose, Google Gemini API, Prompt Engineering.
 
 ---
 
-## 🚀 Featured Projects
+## 💡 Featured Projects
 
-### 01. AI Mentor | AI-Powered Career Development Platform
+### 🤖 AI Mentor — AI Career Development Platform
 
-An AI-powered career development platform designed to help students prepare for their careers through intelligent tools and personalized assistance.
+An AI-powered platform designed to help students with career preparation.
 
-**Key Features**
 - AI Resume Builder
 - Resume Scoring and Analysis
 - Job Description Analyzer
 - AI Career Assistant
 - DSA Practice Dashboard
-- User Authentication and Progress Tracking
 
-**Tech Stack:** React, JavaScript, Node.js, Express, MongoDB, Gemini API, JWT
+**Tech Stack:** React, Node.js, Express, MongoDB, Gemini API, JWT
 
-<div>
+<div align="center">
+
 <a href="https://github.com/siddhimudgal24/ai-backend">
-<img src="https://img.shields.io/badge/Source%20Code-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/Source%20Code-181717?style=for-the-badge&logo=github"/>
 </a>
+
 <a href="https://ai-mentor-frontend-knh7.vercel.app">
-<img src="https://img.shields.io/badge/Live%20Demo-9333EA?style=for-the-badge&logo=vercel&logoColor=white"/>
+<img src="https://img.shields.io/badge/Live%20Demo-9333EA?style=for-the-badge&logo=vercel"/>
 </a>
+
 </div>
 
-### 02. TrustLens | Disaster Response & GIS Platform
+### 🌍 TrustLens — Disaster Response GIS Platform
 
-A GIS-based disaster response platform focused on emergency preparedness, shelter management and geographical visualization.
+A GIS-based disaster response platform focused on emergency preparedness and shelter management.
 
-**Key Features**
 - Interactive disaster maps
 - Flood zone visualization
 - Shelter locations and capacity
-- Shelter readiness score calculation
+- Readiness score calculation
 - Road accessibility analysis
 
 **Tech Stack:** React, TypeScript, Leaflet, GIS
 
 <a href="https://github.com/siddhimudgal24/TRUSTLENS">
-<img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github"/>
 </a>
 
-### 03. Graph Router
+### 🧭 Graph Router
 
-A C++ project exploring graph representation, graph traversal and pathfinding algorithms.
+A C++ project exploring graph representation, traversal and pathfinding algorithms.
 
-**Tech Stack:** C++
+### 🎵 Spotify Clone
 
-### 04. Spotify Clone
+A frontend project inspired by music streaming platforms.
 
-A frontend development project inspired by music streaming platforms.
+### 🎓 Student Management System
 
-**Tech Stack:** HTML, CSS, JavaScript
-
-### 05. Student Management System
-
-An application focused on student record management and fundamental software development concepts.
+An application focused on student record management.
 
 ---
 
-## 🏆 Achievements & Recognition
-
-- Reliance Foundation Scholar
-- Academic Excellence Award
-- Gold Medal — District-Level Boxing
-- Bronze Medal — Zonal-Level Boxing
-- Smart India Hackathon — Internal Round Shortlist
-
----
-
-## 📚 Currently Learning & Exploring
+## 📚 Currently Learning
 
 | Domain | Focus |
 |---|---|
-| Data Structures & Algorithms | Problem-solving, Trees & Graphs |
-| Software Development | Full Stack Engineering |
-| Artificial Intelligence | Generative AI and ML |
-| Computer Science | OOP, DBMS, OS, Computer Networks |
-| Quantitative Research | Alpha Research and Analysis |
-| Current Project | ASEP |
+| DSA | Problem-solving, Trees & Graphs |
+| Development | Full Stack Development |
+| AI/ML | Generative AI and Machine Learning |
+| CS Fundamentals | OOP, DBMS, OS, CN |
+| Research | Quantitative Research |
+| Projects | ASEP |
 
 ---
 
-## 📊 GitHub Analytics
+## 📊 GitHub Statistics
 
 <div align="center">
 
@@ -218,7 +197,7 @@ An application focused on student record management and fundamental software dev
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/siddhimudgal24/siddhimudgal24/output/github-contribution-grid-snake-dark.svg" width="100%" alt="GitHub Contribution Snake"/>
+<img src="https://raw.githubusercontent.com/siddhimudgal24/siddhimudgal24/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 
 </div>
 
@@ -229,25 +208,24 @@ An application focused on student record management and fundamental software dev
 <div align="center">
 
 <a href="https://github.com/siddhimudgal24">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
 </a>
 
 <a href="YOUR_LINKEDIN_URL">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
 </a>
 
 <a href="YOUR_LEETCODE_URL">
-<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode"/>
 </a>
 
-</div>
-
-<div align="center">
+<br/><br/>
 
 ### "Great things are built one line of code at a time."
 
-**LEARN · BUILD · INNOVATE · REPEAT**
+**Learn · Build · Innovate · Repeat**
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:10002B,50:5A189A,100:C77DFF&height=120&section=footer" width="100%"/>
 
 </div>
+
