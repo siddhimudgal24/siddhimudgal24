@@ -16,11 +16,8 @@
 <a href="https://github.com/siddhimudgal24">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-<a href="YOUR_LINKEDIN_URL">
+<a href="https://www.linkedin.com/in/siddhi-mudgal-6b57b8344/">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-<a href="YOUR_LEETCODE_URL">
-<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
 </a>
 
 <br/><br/>
@@ -241,22 +238,6 @@ An application focused on student record management and fundamental software dev
 
 ---
 
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=siddhimudgal24&show_icons=true&theme=midnight-purple&hide_border=true&rank_icon=github"/>
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=siddhimudgal24&layout=compact&theme=midnight-purple&hide_border=true"/>
-
-<br/><br/>
-
-<img width="75%" src="https://streak-stats.demolab.com?user=siddhimudgal24&theme=midnight-purple&hide_border=true"/>
-
-</div>
-
----
-
 ## 📈 Contribution Activity
 
 <div align="center">
@@ -266,18 +247,6 @@ An application focused on student record management and fundamental software dev
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=siddhimudgal24&bg_color=0d1117&color=C084FC&line=A855F7&point=FFFFFF&area=true&hide_border=true&custom_title=Siddhi's%20Contribution%20Activity" width="100%"/>
 
 </div>
-
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/siddhimudgal24/siddhimudgal24/output/github-contribution-grid-snake-dark.svg" width="100%" alt="GitHub Contribution Snake"/>
-
-</div>
-
----
 
 ## 🤝 Let's Connect
 
@@ -291,12 +260,8 @@ An application focused on student record management and fundamental software dev
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="YOUR_LINKEDIN_URL">
+<a href="https://www.linkedin.com/in/siddhi-mudgal-6b57b8344/">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="YOUR_LEETCODE_URL">
-<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
 </a>
 
 <br/><br/>
