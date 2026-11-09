@@ -1,21 +1,27 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0D0618,50:581C87,100:A855F7&height=230&section=header&text=SIDDHI%20MUDGAL&fontSize=55&fontColor=FFFFFF&animation=fadeIn&fontAlignY=45&desc=SOFTWARE%20DEVELOPER%20%7C%20AI%20%26%20DS%20UNDERGRADUATE&descSize=15&descAlignY=65" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:10002B,50:5A189A,100:C77DFF&height=210&section=header&text=Siddhi%20Mudgal&fontSize=55&fontColor=FFFFFF&fontAlignY=40&animation=fadeIn&desc=Software%20Developer%20%7C%20AI%20%26%20Data%20Science&descSize=17&descAlignY=62" width="100%"/>
 
-<a href="https://readme-typing-svg.demolab.com">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&duration=3000&pause=1000&color=C084FC&center=true&vCenter=true&width=650&lines=Hey%2C+I'm+Siddhi+Mudgal+%F0%9F%91%8B;Currently+Working+on+ASEP+%F0%9F%9A%80;Software+Development+Enthusiast;Exploring+AI+%26+Machine+Learning;Turning+Ideas+Into+Real+Projects" />
+<h3>Hey there! I'm Siddhi 👋</h3>
+
+<p>
+Building technology, solving problems, and exploring the intersection of software engineering and artificial intelligence.
+</p>
+
+<a href="https://github.com/siddhimudgal24">
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
+</a>
+<a href="YOUR_LINKEDIN_URL">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
+</a>
+<a href="YOUR_LEETCODE_URL">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black"/>
 </a>
 
 <br/>
 
-<a href="https://github.com/siddhimudgal24">
-<img src="https://komarev.com/ghpvc/?username=siddhimudgal24&style=for-the-badge&color=9333EA&label=PROFILE+VIEWS"/>
-</a>
-
-<a href="https://github.com/siddhimudgal24?tab=followers">
-<img src="https://img.shields.io/github/followers/siddhimudgal24?style=for-the-badge&color=7E22CE&label=FOLLOWERS"/>
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&pause=1200&color=C77DFF&center=true&vCenter=true&width=650&lines=Software+Development+Enthusiast;Currently+Working+on+ASEP;Exploring+AI+%26+Machine+Learning;Building+Full+Stack+Applications;Learning+%7C+Building+%7C+Growing" />
 
 </div>
 
@@ -25,11 +31,11 @@
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/ACTIVE%20PROJECT-ASEP-9333EA?style=for-the-badge&logo=github&logoColor=white"/>
-
 ### ASEP
 
-**Currently working on ASEP — exploring, building, and contributing to the project.**
+**Currently working on ASEP — exploring, developing, and contributing to the project.**
+
+<img src="https://img.shields.io/badge/Project-In%20Progress-9333EA?style=for-the-badge"/>
 
 </div>
 
@@ -37,146 +43,118 @@
 
 ## 👩‍💻 About Me
 
-<img align="right" alt="Developer coding" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+I'm **Siddhi Mudgal**, a B.Tech undergraduate in Artificial Intelligence and Data Science, passionate about software development, problem-solving, and building technology that makes a difference.
 
-Hi! I'm **Siddhi Mudgal**, an undergraduate student pursuing B.Tech in Artificial Intelligence and Data Science.
+I enjoy exploring new technologies, developing practical applications, and continuously improving my engineering skills.
 
-I'm passionate about software engineering, solving challenging problems, and building applications that create real-world impact.
-
-- 🎓 AI & Data Science Undergraduate
-- 💻 Practicing DSA and problem-solving in C++
-- 🌐 Exploring Full Stack Development
-- 🤖 Interested in Artificial Intelligence & Machine Learning
+- 🎓 B.Tech in Artificial Intelligence & Data Science
+- 💻 Practicing Data Structures & Algorithms using C++
+- 🌐 Building full-stack web applications
+- 🤖 Exploring Artificial Intelligence and Generative AI
 - 🚀 Currently working on ASEP
-- 🌱 Always learning and experimenting with new technologies
-
-<br clear="right"/>
+- 🎯 Aspiring Software Engineer and AI Engineer
 
 ---
 
-## 🛠️ Tech Stack & Tools
+## 🛠️ Technical Skills
 
-### Programming Languages
-
-<p>
-<img src="https://skillicons.dev/icons?i=cpp,js,python,java" />
-</p>
-
-### Frontend Development
+**Languages**
 
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,react,tailwind,bootstrap,vite" />
+<img src="https://skillicons.dev/icons?i=cpp,js,python,java"/>
 </p>
 
-### Backend & Database
+**Frontend Development**
 
 <p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql" />
+<img src="https://skillicons.dev/icons?i=html,css,react,tailwind,bootstrap,vite"/>
 </p>
 
-### AI & Developer Tools
+**Backend & Databases**
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,postman,vscode,vercel,tensorflow,pytorch" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql"/>
 </p>
 
-**Also familiar with:** REST APIs, JWT Authentication, Mongoose, Google Gemini API and Prompt Engineering.
+**Tools & Technologies**
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,postman,vscode,vercel"/>
+</p>
+
+**Additional:** REST APIs, JWT Authentication, Mongoose, Google Gemini API, Prompt Engineering.
 
 ---
 
 ## 💡 Featured Projects
 
-<table>
-<tr>
-<td width="50%" valign="top">
+### 1. AI Mentor | AI-Powered Career Platform
 
-<h3>🤖 AI Mentor</h3>
+An AI-powered career development platform designed to help students with career preparation and skill development.
 
-An AI-powered career development platform designed to help users prepare for their careers.
-
+**Features**
 - AI Resume Builder
-- Resume Scoring
+- Resume Scoring and Analysis
 - Job Description Analyzer
 - AI Career Assistant
 - DSA Practice Dashboard
+- Authentication and Progress Tracking
 
-**Tech Stack**
+**Tech Stack:** React, JavaScript, Node.js, Express, MongoDB, Gemini API, JWT
 
-React · Node.js · Express · MongoDB · Gemini API
-
+<p>
+<a href="https://github.com/siddhimudgal24/ai-backend">
+<img src="https://img.shields.io/badge/View%20Source%20Code-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 <a href="https://ai-mentor-frontend-knh7.vercel.app">
 <img src="https://img.shields.io/badge/Live%20Demo-9333EA?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
+</p>
 
-</td>
-<td width="50%" valign="top">
+### 2. TrustLens | Disaster Response & GIS Platform
 
-<h3>🌍 TrustLens</h3>
+A GIS-based disaster response platform focused on emergency preparedness, shelter management, and geographical visualization.
 
-A GIS-based disaster response platform designed to support shelter management and emergency preparedness.
-
+**Features**
 - Interactive disaster maps
 - Flood zone visualization
 - Shelter locations and capacity
-- Readiness score calculation
+- Shelter readiness scoring
 - Road accessibility analysis
 
-**Tech Stack**
-
-React · TypeScript · Leaflet · GIS
+**Tech Stack:** React, TypeScript, Leaflet, GIS
 
 <a href="https://github.com/siddhimudgal24/TRUSTLENS">
-<img src="https://img.shields.io/badge/Repository-9333EA?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-</td>
-</tr>
+### 3. Graph Router
 
-<tr>
-<td width="50%" valign="top">
+A C++ project focused on graph representation, graph traversal, and pathfinding concepts.
 
-<h3>🧭 Graph Router</h3>
+**Tech Stack:** C++
 
-A C++ project exploring graph representation, traversal, and pathfinding algorithms.
-
-**Tech Stack**
-
-C++
-
-</td>
-<td width="50%" valign="top">
-
-<h3>🎵 Spotify Clone</h3>
+### 4. Spotify Clone
 
 A frontend development project inspired by music streaming platforms.
 
-**Tech Stack**
+**Tech Stack:** HTML, CSS, JavaScript
 
-HTML · CSS · JavaScript
+### 5. Student Management System
 
-</td>
-</tr>
-</table>
-
-### Other Projects
-
-- Student Management System
+An application focused on managing student records and exploring software development fundamentals.
 
 ---
 
-## 📚 Current Learning Journey
+## 📚 Current Focus
 
-<div align="center">
-
-| Domain | Focus |
-|:---|:---|
-| Data Structures & Algorithms | Problem-solving and patterns |
-| Software Development | Full Stack Development |
-| Artificial Intelligence | Generative AI and ML |
-| Computer Science | OOP, DBMS, OS, CN |
-| Current Project | ASEP |
-
-</div>
+| Area | Learning Goals |
+|---|---|
+| DSA | Patterns, problem-solving, Trees & Graphs |
+| Software Development | Full-stack development |
+| AI/ML | Generative AI and machine learning |
+| Computer Science | OOP, DBMS, OS, Computer Networks |
+| Projects | Working on ASEP |
 
 ---
 
@@ -192,33 +170,25 @@ HTML · CSS · JavaScript
 <img src="https://img.shields.io/badge/Codeforces-445F9D?style=for-the-badge&logo=codeforces&logoColor=white"/>
 </a>
 
-**Consistently improving my algorithmic thinking through C++ and DSA practice.**
+<br/>
+
+Consistently improving my problem-solving skills through C++ and algorithmic practice.
 
 </div>
 
 ---
 
-## 📊 GitHub Analytics
+## 📊 GitHub Statistics
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=siddhimudgal24&show_icons=true&theme=midnight-purple&hide_border=true&rank_icon=github"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=siddhimudgal24&show_icons=true&theme=midnight-purple&hide_border=true&rank_icon=github"/>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=siddhimudgal24&layout=compact&theme=midnight-purple&hide_border=true"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=siddhimudgal24&layout=compact&theme=midnight-purple&hide_border=true"/>
 
 <br/><br/>
 
 <img width="75%" src="https://streak-stats.demolab.com?user=siddhimudgal24&theme=midnight-purple&hide_border=true"/>
-
-</div>
-
----
-
-## 🐍 Contribution Activity
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/siddhimudgal24/siddhimudgal24/output/github-contribution-grid-snake-dark.svg" alt="GitHub contribution snake" width="100%"/>
 
 </div>
 
@@ -244,19 +214,10 @@ HTML · CSS · JavaScript
 
 <div align="center">
 
-### ✨ Learn. Build. Innovate. Repeat.
+### "Great things are built one line of code at a time."
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:9333EA,50:581C87,100:0D0618&height=130&section=footer" width="100%"/>
+**Learn. Build. Innovate. Repeat.**
 
-</div>
-
-
-<div align="center">
-
-### ✨ "Consistency turns potential into excellence."
-
-**BUILD • LEARN • CREATE • REPEAT**
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:9333EA,50:4C1D95,100:090014&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:10002B,50:5A189A,100:C77DFF&height=120&section=footer" width="100%"/>
 
 </div>
