@@ -1,7 +1,7 @@
 
 <div align="center">
 
-<img src=".\img.png" width="100%" height = auto  alt="Siddhi Mudgal"/>
+<img src=".\Neon Night Coding_ Code & Create.png" width="100%" height = auto  alt="Siddhi Mudgal"/>
 
 <h2>Hey, I'm Siddhi Mudgal! 👋</h2>
 
