@@ -183,7 +183,7 @@ A collaborative project developed as part of a team.
 
 **My Contribution:** Contributed to the development of the project, collaborating with team members on its implementation.
 
-**Repository:** [FinShield Valorant](https://github.com/Priy anshu-Thakur63/FinShield_Valorant)
+**Repository:** [FinShield Valorant](https://github.com/Priyanshu-Thakur63/FinShield_Valorant)
 
 
 ### 🧭 Graph Router
