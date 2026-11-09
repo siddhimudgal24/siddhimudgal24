@@ -141,11 +141,6 @@ An AI-powered career development platform designed to help students prepare for 
 <a href="https://github.com/siddhimudgal24/ai-backend">
 <img src="https://img.shields.io/badge/VIEW%20SOURCE%20CODE-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-
-<a href="https://ai-mentor-frontend-knh7.vercel.app">
-<img src="https://img.shields.io/badge/LIVE%20DEMO-9333EA?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
-
 </div>
 
 ---
