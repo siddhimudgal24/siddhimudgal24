@@ -145,34 +145,23 @@ An AI-powered career development platform designed to help students prepare for 
 
 <div align="center">
 
-### 🌍 TrustLens
 
-**Disaster Response & GIS Platform**
+### 2. TrustLens — Disaster Response GIS Platform
 
-</div>
+A GIS-based disaster response platform designed to support emergency planning, shelter accessibility, and real-time disaster visualization.
 
-A GIS-based disaster response platform focused on emergency preparedness, shelter management, and geographical visualization.
+**Features**
+- Interactive disaster maps.
+- Flood zones and affected population areas.
+- Shelter locations and capacity information.
+- Shelter readiness scoring.
+- Road accessibility visualization.
 
-**Key Features**
-- Interactive disaster maps
-- Flood zone visualization
-- Shelter locations and capacity
-- Shelter readiness score calculation
-- Road accessibility analysis
+**Tech Stack:** React, TypeScript, Leaflet, GIS.
 
-**Tech Stack**
+- 🌐 [Live Demo](https://trustlens-system.vercel.app/register)
+- 💻 [GitHub Repository](https://github.com/siddhimudgal24/TRUSTLENS)
 
-`React` `TypeScript` `Leaflet` `GIS`
-
-<div align="center">
-
-<a href="https://github.com/siddhimudgal24/TRUSTLENS">
-<img src="https://img.shields.io/badge/VIEW%20SOURCE%20CODE-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-</div>
-
----
 
 <div align="center">
 
