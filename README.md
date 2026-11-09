@@ -238,15 +238,12 @@ An application focused on student record management and fundamental software dev
 <div align="center">
 
 ### 100+ Contributions and Counting! 💜
-
 <div align="center">
-  <a href="https://github.com/siddhimudgal24">
-    <img
-      src="https://github-readme-activity-graph.vercel.app/graph?username=siddhimudgal24&bg_color=0D1117&color=C084FC&line=A855F7&point=FFFFFF&area=true&hide_border=true&custom_title=Contribution%20Activity"
-      alt="Siddhi's GitHub Contribution Graph"
-      width="100%"
-    />
-  </a>
+  <img
+    src="https://ghchart.rshah.org/A855F7/siddhimudgal24"
+    alt="Siddhi's Live GitHub Contribution Graph"
+    width="100%"
+  />
 </div>
 
 ## 🤝 Let's Connect
