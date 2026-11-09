@@ -1,25 +1,17 @@
 
 <div align="center">
 
-<!-- HEADER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:090014,35:3B0764,70:7E22CE,100:C084FC&height=230&section=header&text=SIDDHI%20MUDGAL&fontSize=58&fontColor=FFFFFF&fontAlignY=40&animation=fadeIn&desc=SOFTWARE%20DEVELOPER%20%7C%20AI%20%26%20DATA%20SCIENCE&descSize=17&descAlignY=63" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B0014,35:3B0764,70:7E22CE,100:C084FC&height=220&section=header&text=SIDDHI%20MUDGAL&fontSize=58&fontColor=FFFFFF&fontAlignY=40&animation=fadeIn&desc=SOFTWARE%20DEVELOPER%20%7C%20AI%20%26%20DATA%20SCIENCE&descSize=17&descAlignY=63" width="100%"/>
 
-<img src="https://github.com/siddhimudgal24.png" width="135" alt="Siddhi Mudgal" />
+<img src="https://github.com/siddhimudgal24.png" width="125" alt="Siddhi Mudgal"/>
 
-# Hey, I'm Siddhi Mudgal! 👋
+<h2>Hey, I'm Siddhi Mudgal! 👋</h2>
 
-### Code. Create. Innovate.
+<h3>Turning ideas into impactful software and intelligent solutions.</h3>
 
-*Turning ideas into impactful software and intelligent solutions.*
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1100&color=C084FC&center=true&vCenter=true&width=700&lines=Software+Development+Enthusiast;Currently+Working+on+ASEP+%F0%9F%9A%80;Exploring+AI+%26+Machine+Learning;Brain+Research+Consultant+%40+WorldQuant;Building+%7C+Learning+%7C+Growing" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1100&color=C084FC&center=true&vCenter=true&width=650&lines=Software+Development+Enthusiast;Currently+Working+on+ASEP+%F0%9F%9A%80;Exploring+AI+%26+Machine+Learning;Brain+Research+Consultant+%40+WorldQuant;Learning+%7C+Building+%7C+Growing" />
 
 <br/>
-
-<img src="https://komarev.com/ghpvc/?username=siddhimudgal24&style=for-the-badge&color=9333EA&label=PROFILE+VIEWS"/>
-<img src="https://img.shields.io/badge/100%2B-GitHub%20Contributions-A855F7?style=for-the-badge&logo=github&logoColor=white"/>
-
-<br/><br/>
 
 <a href="https://github.com/siddhimudgal24">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
@@ -31,20 +23,25 @@
 <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
 </a>
 
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=siddhimudgal24&style=for-the-badge&color=9333EA&label=PROFILE+VIEWS"/>
+<img src="https://img.shields.io/badge/100%2B-GitHub%20Contributions-A855F7?style=for-the-badge&logo=github&logoColor=white"/>
+
 </div>
 
 ---
 
-## 🚀 Currently Working On
+<h2 align="center">🚀 CURRENTLY WORKING ON</h2>
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/PROJECT-ASEP-9333EA?style=for-the-badge&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/STATUS-IN%20PROGRESS-A855F7?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/ASEP-A855F7?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/STATUS-IN%20PROGRESS-7E22CE?style=for-the-badge"/>
 
 ### ASEP
 
-**Currently working on ASEP — exploring, developing, and contributing to the project.**
+*Currently working on ASEP — exploring, developing, and contributing to the project.*
 
 </div>
 
@@ -52,7 +49,7 @@
 
 ## 👩‍💻 About Me
 
-Hey! I'm **Siddhi Mudgal**, an undergraduate pursuing B.Tech in Artificial Intelligence and Data Science.
+I'm **Siddhi Mudgal**, an undergraduate pursuing B.Tech in Artificial Intelligence and Data Science.
 
 I'm passionate about software engineering, problem-solving, and building intelligent applications. I enjoy exploring new technologies, developing practical solutions, and continuously improving my technical skills.
 
@@ -118,20 +115,19 @@ I'm passionate about software engineering, problem-solving, and building intelli
 
 ---
 
-## 🌟 Featured Projects
-
-### 01. AI Mentor | AI-Powered Career Development Platform
+## 💡 Featured Projects
 
 <div align="center">
 
-<img src="./assets/ai-mentor.png" width="90%" alt="AI Mentor project screenshot"/>
+### 🤖 AI Mentor
+
+**AI-Powered Career Development Platform**
 
 </div>
 
 An AI-powered career development platform designed to help students prepare for their careers through intelligent tools and personalized assistance.
 
 **Key Features**
-
 - AI Resume Builder
 - Resume Scoring and Analysis
 - Job Description Analyzer
@@ -157,24 +153,22 @@ An AI-powered career development platform designed to help students prepare for 
 
 ---
 
-### 02. TrustLens | Disaster Response & GIS Platform
-
 <div align="center">
 
-<img src="./assets/trustlens.png" width="90%" alt="TrustLens project screenshot"/>
+### 🌍 TrustLens
+
+**Disaster Response & GIS Platform**
 
 </div>
 
 A GIS-based disaster response platform focused on emergency preparedness, shelter management, and geographical visualization.
 
 **Key Features**
-
 - Interactive disaster maps
 - Flood zone visualization
 - Shelter locations and capacity
 - Shelter readiness score calculation
 - Road accessibility analysis
-- Geographical data visualization
 
 **Tech Stack**
 
@@ -183,26 +177,48 @@ A GIS-based disaster response platform focused on emergency preparedness, shelte
 <div align="center">
 
 <a href="https://github.com/siddhimudgal24/TRUSTLENS">
-<img src="https://img.shields.io/badge/VIEW%20REPOSITORY-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/VIEW%20SOURCE%20CODE-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </div>
 
 ---
 
-### 03. Graph Router
+<div align="center">
+
+### 🧭 Graph Router
+
+**Graph Algorithms & Pathfinding**
+
+</div>
 
 A C++ project focused on graph representation, graph traversal, and pathfinding algorithms.
 
-**Tech Stack:** `C++` `Graph Algorithms`
+`C++` `Graph Algorithms`
 
-### 04. Spotify Clone
+---
+
+<div align="center">
+
+### 🎵 Spotify Clone
+
+**Frontend Development Project**
+
+</div>
 
 A frontend development project inspired by modern music streaming platforms.
 
-**Tech Stack:** `HTML` `CSS` `JavaScript`
+`HTML` `CSS` `JavaScript`
 
-### 05. Student Management System
+---
+
+<div align="center">
+
+### 🎓 Student Management System
+
+**Application Development**
+
+</div>
 
 An application focused on student record management and fundamental software development concepts.
 
@@ -212,7 +228,7 @@ An application focused on student record management and fundamental software dev
 
 <div align="center">
 
-| Area | Current Focus |
+| Domain | Current Focus |
 |:---|:---|
 | Data Structures & Algorithms | Problem-solving, Trees & Graphs |
 | Software Development | Full Stack Engineering |
@@ -257,7 +273,7 @@ An application focused on student record management and fundamental software dev
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/siddhimudgal24/siddhimudgal24/output/github-contribution-grid-snake-dark.svg" width="100%" alt="GitHub contribution animation"/>
+<img src="https://raw.githubusercontent.com/siddhimudgal24/siddhimudgal24/output/github-contribution-grid-snake-dark.svg" width="100%" alt="GitHub Contribution Snake"/>
 
 </div>
 
@@ -267,7 +283,7 @@ An application focused on student record management and fundamental software dev
 
 <div align="center">
 
-I'm always interested in connecting with developers, collaborating on meaningful projects, and exploring new opportunities.
+*Always open to learning, collaboration, and meaningful opportunities.*
 
 <br/>
 
@@ -285,7 +301,7 @@ I'm always interested in connecting with developers, collaborating on meaningful
 
 <br/><br/>
 
-### ✨ "Great things are built one line of code at a time."
+### "Great things are built one line of code at a time."
 
 **LEARN · BUILD · INNOVATE · REPEAT**
 
