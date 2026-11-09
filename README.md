@@ -177,19 +177,6 @@ A GIS-based disaster response platform focused on emergency preparedness, shelte
 <div align="center">
 
 
-### 4. FinShield Valorant
-
-A collaborative project developed as part of a team.
-
-**My Contribution:** Contributed to the development of the project, collaborating with team members on its implementation.
-
-**Repository:** [FinShield Valorant](https://github.com/Priyanshu-Thakur63/FinShield_Valorant)
-
----
-
-<div align="center">
-
-
 ### 🧭 Graph Router
 
 **Graph Algorithms & Pathfinding**
