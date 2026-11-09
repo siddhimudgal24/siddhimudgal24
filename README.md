@@ -238,13 +238,15 @@ An application focused on student record management and fundamental software dev
 <div align="center">
 
 ### 100+ Contributions and Counting! 💜
+
 <div align="center">
   <img
-    src="https://ghchart.rshah.org/A855F7/siddhimudgal24"
-    alt="Siddhi's Live GitHub Contribution Graph"
+    src="https://ghchart.rshah.org/siddhimudgal24"
+    alt="Siddhi's GitHub Contribution Calendar"
     width="100%"
   />
 </div>
+
 
 ## 🤝 Let's Connect
 
