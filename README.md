@@ -57,7 +57,7 @@ I'm passionate about software engineering, problem-solving, and building intelli
 - 🌐 Exploring Full Stack Development
 - 🤖 Interested in Artificial Intelligence, ML and Generative AI
 - 📊 Exploring Quantitative Research and Financial Data Analysis
-- 🚀 Currently working on ASEP
+- 🚀 Currently working on AIDE
 - 🌱 Always learning, experimenting and building
 
 ---
