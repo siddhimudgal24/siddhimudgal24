@@ -11,7 +11,7 @@
 
 <h3>Turning ideas into impactful software and intelligent solutions.</h3>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1100&color=C084FC&center=true&vCenter=true&width=650&lines=Software+Development+Enthusiast;Currently+Working+on+ASEP+%F0%9F%9A%80;Exploring+AI+%26+Machine+Learning;Brain+Research+Consultant+%40+WorldQuant;Learning+%7C+Building+%7C+Growing" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1100&color=C084FC&center=true&vCenter=true&width=650&lines=Software+Development+Enthusiast;Currently+Working+on+AIDE+%F0%9F%9A%80;Exploring+AI+%26+Machine+Learning;Brain+Research+Consultant+%40+WorldQuant;Learning+%7C+Building+%7C+Growing" />
 
 <br/>
 
@@ -35,7 +35,7 @@
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/ASEP-A855F7?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/AIDE-A855F7?style=for-the-badge&logo=github&logoColor=white"/>
 <img src="https://img.shields.io/badge/STATUS-IN%20PROGRESS-7E22CE?style=for-the-badge"/>
 
 ### AIDE
