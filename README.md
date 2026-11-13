@@ -38,9 +38,9 @@
 <img src="https://img.shields.io/badge/ASEP-A855F7?style=for-the-badge&logo=github&logoColor=white"/>
 <img src="https://img.shields.io/badge/STATUS-IN%20PROGRESS-7E22CE?style=for-the-badge"/>
 
-### ASEP
+### AIDE
 
-*Currently working on ASEP — exploring, developing, and contributing to the project.*
+*Currently working on AIDE — exploring, developing, and contributing to the project.*
 
 </div>
 
